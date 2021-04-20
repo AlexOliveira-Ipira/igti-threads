@@ -6,13 +6,13 @@ class MinhaClasseThread(Thread):
         Thread.__init__(self)
         
     def run(self):
-        print("\n Thread em execução. ")
+        print("\nThread em execução. ")
         
 minhaThread = MinhaClasseThread()
 print('Objeto criado')
 
 minhaThread.start()
-print('Objeto iniciado')
+print('Thread iniciado')
 
 minhaThread.join()
 print('Objeto Parado')
