@@ -119,6 +119,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/imagens
+/imagens_thread
 
 # mypy
 .mypy_cache/

@@ -1,4 +1,3 @@
-import threading        #Modulo para a construção de Threading
 import urllib.request   #Modulo para requisição de URL
 import time             #Modulo de controle do tempo
 
