@@ -6,4 +6,5 @@ Iniciando a primeira tarefa.
     Contador de Nucleos
     Criado arquivo Pratica 2
     Criado arquivo Pratica 3
+    Criado arquivo Pratica 4
   
