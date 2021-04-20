@@ -37,5 +37,3 @@ t1 = time.time()
 timaAtual = t1 -t0
 
 print(f'Tempo total de execução {timaAtual}')
-
-
