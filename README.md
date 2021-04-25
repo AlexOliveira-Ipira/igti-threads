@@ -14,7 +14,8 @@ Iniciando a primeira tarefa.
 
     Criado arquivo Pratica 5
 
-    Criando arquivo Pratica 6
-
-
+    Criado arquivo Pratica 6
   
+    Criado arquivo Pratica 7
+  
+    Criado arquivo Pratica 8 à 13
